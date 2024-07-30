@@ -33,14 +33,13 @@ B.tech 3rd year Computer Science student. Currently working as a Contributor in 
 - Campus Ambassador at [HackerEarth](https://www.hackerearth.com/challenges/)
 
 ## Technologies :fire:
-- Data Analysis with **Python**.
-- Data Science.
-- Mobile application development using **Android (Java)**.
+- Data Engineering with **Azure and PySpark**
+- Data Analysis with **PowerBI**.
+- Web development using **JS (Node, React)**.
 - Python.
-- Java
+- Database Management Services
 - Competitive Programming.
-- Machine Learning
-- Deep Learning
+
 
 **Languages and Tools:**  
 
@@ -53,7 +52,6 @@ B.tech 3rd year Computer Science student. Currently working as a Contributor in 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
 <a href="https://github.com/Kuladeep561">
