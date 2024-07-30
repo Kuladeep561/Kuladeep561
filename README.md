@@ -20,7 +20,7 @@
 <br/>
 <br/>
 
-Data Engineer | Cloud Engineer | Full Stack Developer | Python | Structural Engineer | Data Analyst
+Data Engineer | Cloud Engineer | Full Stack Developer | Python | Structural Engineer | Data Analyst | Cricket Lover
 
 ## About :sunglasses:
 As a versatile professional with over 3 years of experience, I specialized in data engineering and analysis, web development and ETL processes. My expertise lies in Azure Cloud, PowerBI, Python, Pyspark, SQL, JS and ETL tools. And always ready to learn new techs, currently learning Kafka, Terraform, ReactJs
