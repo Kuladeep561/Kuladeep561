@@ -62,12 +62,12 @@ B.tech 3rd year Computer Science student. Currently working as a Contributor in 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kuladeep561&theme=radical&hide=glsl,python" />
 </a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kuladeep561&&show_icons=true&theme=radical&line_height=27&v=5" alt="Ashwani's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Kuladeep561&&show_icons=true&theme=radical&line_height=27&v=5" alt="Kuladeep's GitHub Stats" />
 
 
-<a href="https://github.com/Kuladeep561/Covid-19-Data-Analysis">
+<a href="https://github.com/Kuladeep561/toyo-olympic-dataengineering-projectk">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kuladeep561&repo=Covid-19-Data-Analysis&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kuladeep561&repo=toyo-olympic-dataengineering-projectk&theme=radical" />
 </a>    
 
 
