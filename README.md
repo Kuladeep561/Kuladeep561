@@ -1,19 +1,17 @@
  # <a href="https://github.com/Kuladeep561/">Kuladeep Karimpati</a> :smiley:
  
- <a href="https://twitter.com/Kuladeep561">
+ <a href="https://twitter.com/kuladeep__k">
   <img align="left" alt="Ashwani's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://linkedin.com/in/Kuladeep561">
+<a href="https://linkedin.com/in/kuladeep-karimpati">
   <img align="left" alt="Ashwani's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/Kuladeep561">
   <img align="left" alt="Ashwani's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://instagram.com/Kuladeep561">
+<a href="https://instagram.com/kuladeep__k">
   <img align="left" alt="Ashwani's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/ashwani1406">
-  <img align="left" alt="Ashwani's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="https://medium.com/@Kuladeep561">
   <img align="left" alt="Ashwani's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
@@ -22,23 +20,18 @@
 <br/>
 <br/>
 
-Contributer at Student Code-in | Contributer at PClub Summer Of Code | Data Science | Machine Learning | Deep Learning | Android Development | Java | Python | Competitive Programming
+Data Engineer | Cloud Engineer | Full Stack Developer | Python | Structural Engineer | Data Analyst
 
 ## About :sunglasses:
-B.tech 3rd year Computer Science student. Currently working as a Contributor in Open Source organization Student Code-in and PClub Summer Of Code. Passionate about Data Science, Machine Learning and open source. Also, have some experience in Android Development and Data Analysis.
+As a versatile professional with over 3 years of experience, I specialized in data engineering and analysis, web development and ETL processes. My expertise lies in Azure Cloud, PowerBI, Python, Pyspark, SQL, JS and ETL tools. And always ready to learn new techs, currently learning Kafka, Terraform, ReactJs
 
-## Communities :dancers:
-- Contributer at [Student Code-in](https://scodein.tech/) ( An Open Source organization.)
-- Contributer at [PClub Summer Of Code](http://pclubsummerofcode.in/) ( ( An Open Source organization.)
-- Campus Ambassador at [HackerEarth](https://www.hackerearth.com/challenges/)
 
 ## Technologies :fire:
 - Data Engineering with **Azure and PySpark**
-- Data Analysis with **PowerBI**.
-- Web development using **JS (Node, React)**.
-- Python.
+- Data Analysis with **PowerBI**
+- Web development using **JS (Node, React)**
+- Python
 - Database Management Services
-- Competitive Programming.
 
 
 **Languages and Tools:**  
