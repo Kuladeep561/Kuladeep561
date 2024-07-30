@@ -39,7 +39,7 @@ As a versatile professional with over 3 years of experience, I specialized in da
 <code><img height="20" src="https://spark.apache.org/docs/latest/api/python/_static/spark-logo-reverse.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png"></code>
-<code><img height="20" src="https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png"></code>
+<code><img height="20" src="https://pbs.twimg.com/profile_images/1308421398042468356/M2xJtfHx_400x400.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
